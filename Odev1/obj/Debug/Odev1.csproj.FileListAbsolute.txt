@@ -1,0 +1,21 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\bin\Debug\Odev1.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\bin\Debug\Odev1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Veri Yapıları\LinkedList\Odev1\Odev1\obj\Debug\Odev1.pdb
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.exe
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.pdb
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\bin\Debug\Odev1.exe
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\bin\Debug\Odev1.pdb
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.Form1.resources
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Ödev\Odev1\Odev1\obj\Debug\Odev1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev1\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev1\Odev1\obj\Debug\Odev1.exe
+C:\Users\ASUS\Desktop\FATMA KAYA-142804016-Odev1\Odev1\obj\Debug\Odev1.pdb
